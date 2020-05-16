@@ -1,0 +1,20 @@
+,blood volume,beads (BUV395) | Count,All cells | Count,All cells/Single Cells | Count,All cells/Single Cells/Human | Count,All cells/Single Cells/Human/CD3- CD14- | Count,All cells/Single Cells/Human/CD3- CD14-/B cells | Count,All cells/Single Cells/Human/CD3- CD14-/B cells/CD19+ CCR5+ | Count
+Compensation Controls_APC-Cy7 Stained Control_004.fcs,,,,,,,,
+Compensation Controls_Alexa Fluor 647 Stained Control_002.fcs,,,,,,,,
+Compensation Controls_Alexa 700 Stained Control_003.fcs,,,,,,,,
+Compensation Controls_BUV395 Stained Control_014.fcs,,,,,,,,
+Compensation Controls_Unstained Control_001.fcs,,,,,,,,
+examplestudy_1wpi_937_019.fcs,125,9893,318616,310272,55300,11230,8876,40
+examplestudy_1wpi_949_020.fcs,125,9202,368490,360412,109758,16102,11458,68
+examplestudy_1wpi_950_021.fcs,125,11430,264008,258337,80981,10373,7431,68
+examplestudy_1wpi_966_022.fcs,125,12357,255127,252161,18160,4891,4021,10
+examplestudy_1wpi_967_023.fcs,125,11535,154462,149241,41251,8133,6690,26
+examplestudy_1wpi_968_024.fcs,125,9107,332026,316358,32508,6254,5052,21
+examplestudy_1wpi_971_025.fcs,125,9897,311557,307200,44568,6219,4739,34
+examplestudy_1wpi_972_026.fcs,125,8067,120376,117778,16044,3894,3357,17
+examplestudy_1wpi_973_027.fcs,125,8405,184022,179919,13887,4037,3496,32
+examplestudy_1wpi_984_028.fcs,125,8028,4.27E+05,4.12E+05,60494,4846,2993,20
+examplestudy_1wpi_985_029.fcs,125,9826,370623,359670,129452,10302,7744,131
+examplestudy_1wpi_988_030.fcs,125,6143,398976,381864,20234,983,609,6
+Mean,,,,,,,,
+SD,,,,,,,,
