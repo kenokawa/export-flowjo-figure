@@ -1,0 +1,17 @@
+,blood volume,beads (BUV395) | Count,All cells | Count,All cells/Single Cells | Count,All cells/Single Cells/Human | Count,All cells/Single Cells/Human/CD3- CD14- | Count,All cells/Single Cells/Human/CD3- CD14-/B cells | Count,All cells/Single Cells/Human/CD3- CD14-/B cells/CD19+ CCR5+ | Count
+Compensation Controls_APC-Cy7 Stained Control_004.fcs,,,,,,,,
+Compensation Controls_Alexa Fluor 647 Stained Control_002.fcs,,,,,,,,
+Compensation Controls_Alexa 700 Stained Control_003.fcs,,,,,,,,
+Compensation Controls_BUV395 Stained Control_014.fcs,,,,,,,,
+Compensation Controls_Unstained Control_001.fcs,,,,,,,,
+tutorial 3wpi_937_019.fcs,125,8840,5.30E+05,5.21E+05,42964,8473,6225,58
+tutorial 3wpi_966_020.fcs,125,8665,5.72E+05,5.66E+05,45205,4817,2734,18
+tutorial 3wpi_967_021.fcs,125,6708,7.47E+05,7.35E+05,39699,7464,5545,37
+tutorial 3wpi_968_022.fcs,125,9554,7.64E+05,7.52E+05,37521,8560,5894,79
+tutorial 3wpi_972_023.fcs,125,10503,6.80E+05,6.70E+05,31824,9263,6934,55
+tutorial 3wpi_973_024.fcs,125,11275,349642,345960,17887,6397,4823,89
+tutorial 3wpi_984_025.fcs,125,9862,4.69E+05,4.56E+05,142584,8841,673,8
+tutorial 3wpi_985_026.fcs,125,9434,342577,336888,29160,2345,1331,59
+tutorial 3wpi_988_027.fcs,125,9424,7.69E+05,7.56E+05,14269,1898,685,33
+Mean,,,,,,,,
+SD,,,,,,,,
